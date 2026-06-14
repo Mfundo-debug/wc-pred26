@@ -1,0 +1,49 @@
+group,team,code,confed,host,fifa_points,historical_wc_score,current_adjustment
+A,Mexico,MEX,CONCACAF,True,1676.0,6.2,-0.06
+A,South Africa,RSA,CAF,False,1482.0,0.55,-0.18
+A,Korea Republic,KOR,AFC,False,1586.0,4.65,0.0
+A,Czech Republic,CZE,UEFA,False,1478.0,0.0,0.0
+B,Canada,CAN,CONCACAF,True,1520.0,1.0,0.0
+B,Bosnia-Herzegovina,BIH,UEFA,False,1496.0,0.0,0.0
+B,Qatar,QAT,AFC,False,1535.0,1.0,0.0
+B,Switzerland,SUI,UEFA,False,1660.0,5.65,0.0
+C,Brazil,BRA,CONMEBOL,False,1765.86,14.65,0.0
+C,Morocco,MAR,CAF,False,1755.1,6.85,0.0
+C,Haiti,HAI,CONCACAF,False,1416.0,0.0,0.0
+C,Scotland,SCO,UEFA,False,1540.0,0.0,0.0
+D,United States,USA,CONCACAF,True,1668.0,2.8,0.0
+D,Paraguay,PAR,CONMEBOL,False,1533.0,0.0,0.0
+D,Australia,AUS,AFC,False,1567.0,4.4,0.0
+D,Turkey,TUR,UEFA,False,1618.0,0.0,0.0
+E,Germany,GER,UEFA,False,1715.0,12.15,0.0
+E,Ecuador,ECU,CONMEBOL,False,1605.0,1.55,0.0
+E,Curacao,CUW,CONCACAF,False,1408.0,0.0,0.0
+E,Cote d'Ivoire,CIV,CAF,False,1553.0,0.0,0.0
+F,Netherlands,NED,UEFA,False,1753.57,10.1,0.0
+F,Japan,JPN,AFC,False,1647.0,6.2,0.0
+F,Tunisia,TUN,CAF,False,1508.0,2.4,0.0
+F,Sweden,SWE,UEFA,False,1608.0,0.0,0.0
+G,Belgium,BEL,UEFA,False,1742.0,8.8,0.0
+G,Egypt,EGY,CAF,False,1548.0,0.0,0.0
+G,Iran,IRN,AFC,False,1562.0,3.1,0.0
+G,New Zealand,NZL,OFC,False,1445.0,0.0,0.0
+H,Spain,ESP,UEFA,False,1874.71,9.4,0.0
+H,Cape Verde,CPV,CAF,False,1428.0,0.0,0.0
+H,Saudi Arabia,KSA,AFC,False,1512.0,1.85,0.0
+H,Uruguay,URU,CONMEBOL,False,1692.0,9.45,0.0
+I,France,FRA,UEFA,False,1870.7,18.9,0.0
+I,Senegal,SEN,CAF,False,1638.0,2.85,0.0
+I,Iraq,IRQ,AFC,False,1438.0,0.0,0.0
+I,Norway,NOR,UEFA,False,1546.0,0.0,0.0
+J,Argentina,ARG,CONMEBOL,False,1877.27,17.7,-0.04
+J,Algeria,ALG,CAF,False,1494.0,0.0,0.0
+J,Austria,AUT,UEFA,False,1630.0,0.0,0.0
+J,Jordan,JOR,AFC,False,1434.0,0.0,0.0
+K,Portugal,POR,UEFA,False,1767.85,8.25,0.0
+K,Colombia,COL,CONMEBOL,False,1658.0,0.0,0.0
+K,Congo DR,COD,CAF,False,1400.0,0.0,0.0
+K,Uzbekistan,UZB,AFC,False,1460.0,0.0,0.0
+L,England,ENG,UEFA,False,1828.02,8.8,0.0
+L,Croatia,CRO,UEFA,False,1698.0,13.4,0.0
+L,Ghana,GHA,CAF,False,1528.0,2.2,0.0
+L,Panama,PAN,CONCACAF,False,1498.0,0.0,0.0

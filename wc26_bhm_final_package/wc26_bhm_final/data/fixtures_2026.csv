@@ -1,0 +1,73 @@
+group,home,away
+A,Mexico,South Africa
+A,Korea Republic,Czech Republic
+A,Mexico,Korea Republic
+A,Czech Republic,South Africa
+A,Czech Republic,Mexico
+A,South Africa,Korea Republic
+B,Canada,Bosnia-Herzegovina
+B,Qatar,Switzerland
+B,Canada,Qatar
+B,Switzerland,Bosnia-Herzegovina
+B,Switzerland,Canada
+B,Bosnia-Herzegovina,Qatar
+C,Brazil,Morocco
+C,Haiti,Scotland
+C,Brazil,Haiti
+C,Scotland,Morocco
+C,Scotland,Brazil
+C,Morocco,Haiti
+D,United States,Paraguay
+D,Australia,Turkey
+D,United States,Australia
+D,Turkey,Paraguay
+D,Turkey,United States
+D,Paraguay,Australia
+E,Germany,Ecuador
+E,Curacao,Cote d'Ivoire
+E,Germany,Curacao
+E,Cote d'Ivoire,Ecuador
+E,Cote d'Ivoire,Germany
+E,Ecuador,Curacao
+F,Netherlands,Japan
+F,Tunisia,Sweden
+F,Netherlands,Tunisia
+F,Sweden,Japan
+F,Sweden,Netherlands
+F,Japan,Tunisia
+G,Belgium,Egypt
+G,Iran,New Zealand
+G,Belgium,Iran
+G,New Zealand,Egypt
+G,New Zealand,Belgium
+G,Egypt,Iran
+H,Spain,Cape Verde
+H,Saudi Arabia,Uruguay
+H,Spain,Saudi Arabia
+H,Uruguay,Cape Verde
+H,Uruguay,Spain
+H,Cape Verde,Saudi Arabia
+I,France,Senegal
+I,Iraq,Norway
+I,France,Iraq
+I,Norway,Senegal
+I,Norway,France
+I,Senegal,Iraq
+J,Argentina,Algeria
+J,Austria,Jordan
+J,Argentina,Austria
+J,Jordan,Algeria
+J,Jordan,Argentina
+J,Algeria,Austria
+K,Portugal,Colombia
+K,Congo DR,Uzbekistan
+K,Portugal,Congo DR
+K,Uzbekistan,Colombia
+K,Uzbekistan,Portugal
+K,Colombia,Congo DR
+L,England,Croatia
+L,Ghana,Panama
+L,England,Ghana
+L,Panama,Croatia
+L,Panama,England
+L,Croatia,Ghana
